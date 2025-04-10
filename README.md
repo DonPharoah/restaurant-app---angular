@@ -61,4 +61,4 @@ The example shows how to develop beautiful user interfaces using Xamarin.Forms a
 ### Contributors
 
 Thank you to all the people who have already contributed to our project!
-<a href="/graphs/contributors"><img src="https://opencollective.com/restaurant-app/contributors.svg?width=890" /></a>
+<a href="https://github.com/DonPharoah"></a>
